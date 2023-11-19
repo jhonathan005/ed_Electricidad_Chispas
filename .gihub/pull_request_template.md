@@ -1,14 +1,20 @@
 ## Description de la tarea
 
-<!-- Descripción sobre lo que se pide en la tarea  -->
+La empresa Electricidad Chispas, nos pide digitalizar su forma de llevar a cabo la facturacion.
+Se realiza un estudio detallado de los datos propuestos por la empresa.
+Se realiza un diagrama (uml) lenguaje unificado modelado, y con base a este se realiza la programacion en java.
 
-## ¿Cómo se ha implementado?
+## Como se ha implementado:
 
-<!-- Estructura de clases, patrones: MVVM, etc.  -->
+diagrama de clases, en Lucichart.
+pull request y repositorio en github.
+programacion en Intellidea.
 
 ## Keywords
+Diagrama uml. (Cardinalidades)
+Pull request, repositorios.
+Estructura en java, (Branch, Clases, Atributos, Metodos, Arrays list)
 
-<!-- Palabras relacionadas con los conceptos vistos -->
 
 ## Screenshots or Video
 
