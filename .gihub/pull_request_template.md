@@ -1,6 +1,6 @@
 ## Description de la tarea
 
-<!-- Descripción sobre lo que se pide en la tarea -->
+<!-- Descripción sobre lo que se pide en la tarea  -->
 
 ## ¿Cómo se ha implementado?
 
