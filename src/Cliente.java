@@ -1,14 +1,10 @@
 public class Cliente {
     private String codigoCliente;
-    private String nombre;
-    private String apellidos;
     private String direccionPostal;
     private String poblacion;
     private String provincia;
     private String email;
     private String telefono;
-    private Autonomo autonomo;
-    private Sociedad sociedad;
 
     public String getCodigoCliente() {
         return codigoCliente;
@@ -16,22 +12,6 @@ public class Cliente {
 
     public void setCodigoCliente(String codigoCliente) {
         this.codigoCliente = codigoCliente;
-    }
-
-    public String getNombre() {
-        return nombre;
-    }
-
-    public void setNombre(String nombre) {
-        this.nombre = nombre;
-    }
-
-    public String getApellidos() {
-        return apellidos;
-    }
-
-    public void setApellidos(String apellidos) {
-        this.apellidos = apellidos;
     }
 
     public String getDireccionPostal() {
@@ -74,19 +54,4 @@ public class Cliente {
         this.telefono = telefono;
     }
 
-    public Autonomo getAutonomo() {
-        return autonomo;
-    }
-
-    public void setAutonomo(Autonomo autonomo) {
-        this.autonomo = autonomo;
-    }
-
-    public Sociedad getSociedad() {
-        return sociedad;
-    }
-
-    public void setSociedad(Sociedad sociedad) {
-        this.sociedad = sociedad;
-    }
 }

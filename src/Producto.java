@@ -6,7 +6,7 @@ public class Producto {
     private String marca;
     private String modelo;
     private String precio;
-    private double iva;
+    private String iva;
 
 
     public String getCodigoProducto() {
@@ -49,11 +49,11 @@ public class Producto {
         this.precio = precio;
     }
 
-    public double getIva() {
+    public String getIva() {
         return iva;
     }
 
-    public void setIva(double iva) {
+    public void setIva(String iva) {
         this.iva = iva;
     }
 }

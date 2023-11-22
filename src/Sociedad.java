@@ -1,4 +1,4 @@
-public class Sociedad {
+public class Sociedad extends Cliente {
     private String cif;
     private String razonSocial;
 

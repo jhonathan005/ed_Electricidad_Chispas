@@ -1,15 +1,15 @@
 public class Servicio {
-    private String codigo;
+    private String codigoServicio;
     private String nombre;
     private String precio;
-    private double iva;
+    private String iva;
 
     public String getCodigo() {
-        return codigo;
+        return codigoServicio;
     }
 
     public void setCodigo(String codigo) {
-        this.codigo = codigo;
+        this.codigoServicio = codigo;
     }
 
     public String getNombre() {
@@ -28,11 +28,11 @@ public class Servicio {
         this.precio = precio;
     }
 
-    public double getIva() {
+    public String getIva() {
         return iva;
     }
 
-    public void setIva(double iva) {
+    public void setIva(String iva) {
         this.iva = iva;
     }
 }
