@@ -66,6 +66,5 @@ public class Main {
         factura2.setBaseImponible("21%");
         factura2.setTotal("400€");
 
-
     }
 }
