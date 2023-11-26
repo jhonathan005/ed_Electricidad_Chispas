@@ -1,4 +1,7 @@
 public class Autonomo extends Cliente {
+    public Autonomo(){
+        setTipo("Autonomo");
+    }
     private String dni;
     private String nombre;
     private String apellidos;

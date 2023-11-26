@@ -1,4 +1,7 @@
 public class Sociedad extends Cliente {
+    public Sociedad(){
+        setTipo("Sociedad");
+    }
     private String cif;
     private String razonSocial;
 
